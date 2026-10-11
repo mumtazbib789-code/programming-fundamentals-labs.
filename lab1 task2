@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+cout<<"your 10 year old"<<endl;
+cout<<"your too young to play the game"<<endl;
+return 0;
+}
